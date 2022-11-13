@@ -105,7 +105,7 @@ Delete an enterprise application using [Graph Explorer](https://developer.micros
    ```http
    GET /servicePrincipals
    ```
-1. Record the ID of the enterprise app you want to delete.
+1. Record the ObjectID of the enterprise app you want to delete.
 1. Delete the enterprise application.
    
    ```http
